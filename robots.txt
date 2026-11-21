@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /soc-analyst-academy-site/
+Sitemap: https://dante971-htb.github.io/soc-analyst-academy-site/sitemap.xml
